@@ -1,6 +1,6 @@
 # Unity Godfather Card Guess Game
 
-Welcome to the Unity Godfather Card Guess Game repository! This project is a card guessing game that has a Godfather theme. Please note that I do not own the Godfather franchise, and the use of Godfather-related elements is solely for the purpose of creating a GodFather themed game.
+This project is a card guessing game that has a Godfather theme. Please note that I do not own the Godfather franchise, and the use of Godfather-related elements is solely for the purpose of creating a GodFather themed game.
 
 ## About the Game:
 
